@@ -1,0 +1,8 @@
+{
+  "ownerId": "system",
+  "slug": "faster-whisper-zh",
+  "version": "1.0.5",
+  "description": "faster-whisper 中文版 - 高性能本地语音转文字工具",
+  "tags": ["语音识别", "语音转文字", "whisper", "中文", "转录"],
+  "language": "zh-CN"
+}
