@@ -1,0 +1,6 @@
+{
+  "slug": "markitdown-zh",
+  "version": "1.0.1",
+  "description": "OpenClaw 智能体文档转换技能，用于将各类文档转换为 Markdown 格式。基于微软 MarkItDown 库，支持 PDF、Word、PowerPoint、Excel、图像 (OCR)、音频 (转录)、HTML 和 YouTube 链接。",
+  "tags": ["文档转换", "markitdown", "markdown", "中文", "OCR", "转录"]
+}
