@@ -137,6 +137,4 @@ python3.12 scripts/extract_images.py document.pdf images_folder/
 
 ## 另请参阅
 
-- [USAGE-GUIDE.md](USAGE-GUIDE.md) - 详细示例
-- [reference.md](reference.md) - 完整 API 参考
 - [Microsoft MarkItDown](https://github.com/microsoft/markitdown) - 上游库
