@@ -104,6 +104,8 @@ python3.12 --version  # 或 python3.11, python3.13
 sudo apt-get install pipx
 # 使用pipx安装markitdown包 all表示支持所有格式
 pipx install 'markitdown[all]'
+# 将通过pipx安装的包路径放入当前变量PATH内
+pipx ensurepath
 
 # 或使用虚拟环境（适用于非root用户，如node用户）
 python3.12 -m venv markitdown-env
