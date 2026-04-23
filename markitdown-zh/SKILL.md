@@ -1,6 +1,6 @@
 ---
 name: markitdown-zh
-description: 使用微软 markitdown 库将多种文档格式（PDF、DOCX、PPTX、xlsx、xls、HTML等）转换为 Markdown。支持批量转换、保留格式、图片提取等功能。使用场景：(1) "把这个 PDF 转成 Markdown"，(2) "批量转换这个文件夹里的文档"，(3) "提取文档中的图片"。
+description: 使用微软 markitdown 库将多种文档格式（PDF、DOCX、PPTX、XLSX、XLS、CSV、JSON、TXT、EPUB、HTML等）转换为 Markdown。支持批量转换、保留格式、图片提取等功能。使用场景：(1) "把这个 PDF 转成 Markdown"，(2) "批量转换这个文件夹里的文档"，(3) "提取文档中的图片"。
 ---
 
 # MarkItDown 文档转换技能
